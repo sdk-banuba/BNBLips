@@ -42,7 +42,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBLips",
             url: "None",
-            checksum: "d75fc23c622ae6b017237f8fa7b45f4f0cfc0d87325d40f24fbbd6d2c79ff89c"
+            checksum: "85b0de6b61b69666e3eb0d9457f6405a32d4d44fddfcdc0fcb8b9ba34879055b"
         ),
         .target(
             name: "BNBLips_BNBSdkCore",
